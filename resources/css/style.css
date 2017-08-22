@@ -1,10 +1,10 @@
 body {
   text-align: center;
   background-color: black;
+  font-family: verdana;
 }
 
 #header {
-  font-family: verdana;
   font-weight: normal;
   font-size: 50px;
   color: white;
